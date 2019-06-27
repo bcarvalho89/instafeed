@@ -1,5 +1,5 @@
 {
-  "name": "instafeed",
+  "name": "instafeed-backend",
   "version": "1.0.0",
   "description": "Another instagram clone made with React, React Native and NodeJS",
   "main": "index.js",
