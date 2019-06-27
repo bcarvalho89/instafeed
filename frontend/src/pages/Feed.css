@@ -1,0 +1,62 @@
+.feed-list {
+  width: 100%;
+  max-width: 580px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+.post {
+  background: #fff;
+  margin: 30px 0;
+  border: 1px solid #ddd;
+}
+
+.post-header {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.post-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.post-user {
+  font-size: 13px;
+}
+
+.post-place {
+  font-size: 11px;
+  color: #666;
+  margin-top: 3px;
+}
+
+.post-image {
+  width: 100%;
+}
+
+.post-footer {
+  padding: 20px;
+}
+
+.post-footer-actions {
+  margin-bottom: 10px;
+}
+
+.post-footer-actions img {
+  height: 20px;
+  margin-right: 10px;
+}
+
+.post-footer p {
+  font-size: 13px;
+  margin-top: 2px;
+  line-height: 18px;
+}
+
+.post-footer p span {
+  display: block;
+  color: rgb(26, 26, 26);
+}
